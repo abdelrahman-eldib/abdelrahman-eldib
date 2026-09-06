@@ -35,6 +35,7 @@ I'm used to taking ownership under pressure — as a Security Officer at Securit
 | Project | Description |
 |---|---|
 | [**bankprogram**](https://github.com/abdelrahman-eldib/bankprogram) | A terminal-based bank account program written in C (KTH coursework) — handles accounts and transactions from the command line |
+| [**Portfolio website**](https://abdelrahman-eldib.github.io) | My personal portfolio site, built with HTML, CSS and JavaScript |
 
 *More projects coming soon! See the `GitHub strategy` guide for ideas on what to build next.*
 
@@ -48,6 +49,6 @@ I'm used to taking ownership under pressure — as a Security Officer at Securit
 
 - 📧 aeldib.eng@gmail.com
 - 💼 [linkedin.com/in/abdelrahmaneldib](https://www.linkedin.com/in/abdelrahmaneldib/)
-- 🌐 Portfolio: *add your GitHub Pages link here once published, e.g. abdelrahman-eldib.github.io*
+- 🌐 [abdelrahman-eldib.github.io](https://abdelrahman-eldib.github.io)
 
 <p align="center"><i>Open to part-time roles and internships in IT, administration and technical support.</i></p>
